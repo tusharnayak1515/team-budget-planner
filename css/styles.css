@@ -1,0 +1,10 @@
+#add-deal {
+    width: 400px;
+    margin: 2rem auto;
+}
+
+@media only screen and (max-width: 480px) {
+    #add-deal {
+        width: 300px;
+    }
+}
